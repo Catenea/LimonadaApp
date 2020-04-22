@@ -1,6 +1,7 @@
-# cafe_app4
+# Limonada
 
-A new Flutter project.
+A flutter app that connects to firebase, using Firebase Auth and Firestore. 
+This app is based in the Flutter and Firebase series from The Net Ninja: https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC
 
 ## Getting Started
 
